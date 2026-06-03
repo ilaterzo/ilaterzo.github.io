@@ -30,3 +30,5 @@ My research focuses on the Americas, with a particular emphasis on contexts mark
 
 My research has been published or is forthcoming in journals such as the *British Journal of Political Science*, *Comparative Political Studies*, *Political Research Quarterly*, *Research & Politics*, the *Journal of Criminal Justice*, and the *Journal of Politics in Latin America* and has been referenced by news outlets such as *O Estado de São Paulo*, *A Folha de São Paulo*, and *El Diaro de Júarez*. I have written popular press pieces for The *Washington Post* and *Lawfare*. My work has been supported by the H.F. Guggenheim Foundation, Fulbright-Hays, the U.S. Department of State, and USAID, among other organizations.
 
+You can reach me by email at `isabel.laterzo@austin.utexas.edu`
+
