@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor & Fellow of the Wilbur J. Cohen Professorship in Health and Social Policy
+subtitle: #Assistant Professor & Fellow of the Wilbur J. Cohen Professorship in Health and Social Policy
 
 profile:
   align: right
