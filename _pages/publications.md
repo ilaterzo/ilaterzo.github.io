@@ -10,13 +10,11 @@ nav_order: 2
 
 <div class="publications">
 
-## Peer-Reviewed Publications
 {% bibliography -f peerreview %}
 
-## Working Papers
+
 {% bibliography -f working %}
 
-## In Preparation
 {% bibliography -f inprep %}
 
 </div>
