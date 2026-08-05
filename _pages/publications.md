@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-<style> html[data-theme="dark"] h2 { color: #ffffff !important; } 
+<style> html[data-theme="dark"] h2 { color: #ffffff !important; } </style>
 
 <div class="publications">
 
