@@ -8,10 +8,15 @@ nav_order: 2
 ---
 <style> html[data-theme="dark"] h2 { color: #ffffff !important; } 
 
-<!-- _pages/publications.md -->
-
 <div class="publications">
 
-{% bibliography -f papers %}
+## Peer-Reviewed Publications
+{% bibliography -f peerreview %}
+
+## Working Papers
+{% bibliography -f working %}
+
+## In Preparation
+{% bibliography -f inprep %}
 
 </div>
